@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.0" type="plugin" group="content" method="upgrade">
 	<name>JooAg JoomlaVersion</name>
-	<author>Ufuk Avcu</author>
+	<author>joomla-agentur.de - Ufuk Avcu</author>
 	<creationDate>15.09.2014</creationDate>
 	<copyright>Copyright (C) 2009 - 2015 JooAg. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
