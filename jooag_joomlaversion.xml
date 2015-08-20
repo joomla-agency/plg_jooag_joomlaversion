@@ -11,7 +11,7 @@
 	<description>A small Plugin to Output a specific Joomla Version.</description>
 	<files>
 		<filename plugin="jooag_joomlaversion">jooag_joomlaversion.php</filename>
-		<filename plugin="jooag_joomlaversion">Readme.md</filename>
+		<filename plugin="jooag_joomlaversion">README.md</filename>
 	</files>
 	<config>
 		<fields name="params">
