@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="3.3" type="plugin" group="content" method="upgrade">
+<extension version="3.0" type="plugin" group="content" method="upgrade">
 	<name>JooAg JoomlaVersion</name>
 	<author>joomla-agentur.de - Ufuk Avcu</author>
 	<creationDate>15.09.2014</creationDate>
@@ -11,7 +11,6 @@
 	<description>A small Plugin to Output a specific Joomla Version.</description>
 	<files>
 		<filename plugin="jooag_joomlaversion">jooag_joomlaversion.php</filename>
-		<filename plugin="jooag_joomlaversion">README.md</filename>
 	</files>
 	<config>
 		<fields name="params">
